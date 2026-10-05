@@ -12,6 +12,12 @@
         echo "Nom : Alami<br>";
         echo "Prénom : Sara<br>";
         echo "Groupe : INFO-S3";
+        // Commentaire sur une seule ligne
+
+        /*
+           Commentaire
+           sur plusieurs lignes
+        */
     ?>
 
     <p><?= "Bon courage pour votre TP PHP !" ?></p>
