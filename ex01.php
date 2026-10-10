@@ -11,7 +11,7 @@
         echo "Bienvenue dans mon TP PHP<br>";
         echo "Nom : Alami<br>";
         echo "Prénom : Sara<br>";
-        echo "Groupe : INFO-S3";
+        echo "Groupe : 01<br>";
         // Commentaire sur une seule ligne
 
         /*
